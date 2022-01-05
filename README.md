@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luckny
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning node
+- 🌱 I’m currently learning node, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
